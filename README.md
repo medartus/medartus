@@ -2,8 +2,8 @@
 
 <p align="center">
   <samp>
-I'm Marc-Etienne, an SDE intern at Amazon Madrid working for the kindle team. I'm also a Freelance developer in software engineering and Data Analysis / Visualization.
-In 5th year engineering school at ESILV France and double making a degree with a business school (EMLV).
+I'm Marc-Etienne, an Software Engineer at Amazon Madrid working for the kindle team. I'm also a Freelance developer in software engineering and Data Analysis / Visualization.
+I have a Master in engineering from ESILV France and a Master of business from EMLV France.
 I learn a lot by myself and I like to test new programming languages ​​to see their potential.  
      <br><br>Contact me on <a href="https://www.linkedin.com/in/marcetiennedartus/">Linkedin</a> or Send an Email at <a href="mailto:marcetienne@dartus.fr">marcetienne@dartus.fr</a>
   </samp>
